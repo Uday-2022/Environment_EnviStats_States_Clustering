@@ -1,5 +1,10 @@
-voila
+pandas
+numpy
+seaborn
+matplotlib
+glob2  # 'glob' doesn't require installation, but 'glob2' might be needed
+plotly
+scipy
+scikit-learn
 ipywidgets
-numpy  # if used
-pandas  # if used
-plotly  # if used for interactive charts
+voila  # To hide the code and keep the notebook interactive
