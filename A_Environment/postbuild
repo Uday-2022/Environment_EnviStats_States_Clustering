@@ -1,0 +1,2 @@
+jupyter nbextension enable hide_code/hide_code
+jupyter nbextension enable --py widgetsnbextension --sys-prefix

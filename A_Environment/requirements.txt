@@ -1,1 +1,4 @@
 hide_code
+ipywidgets
+plotly
+notebook
